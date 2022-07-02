@@ -1,0 +1,21 @@
+{
+      id:'1',
+      name:"Avinash Mishra",
+      photo:'avinash.jfif',
+      roll:'UE198003',
+      dep:'LAW',
+      btype:'AB+',
+      last_d:'Aug 14,2021',
+      time_d:'1',
+      contact:8181849691
+    },
+    {
+      id:'2',
+      name:"Abhay Gautam ",
+      photo:'user.png',
+      roll:'UE198002',
+      dep:'IT',
+      btype:'O+',
+      last_d:'Aug 14,2021',
+      time_d:'1'
+    }
